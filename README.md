@@ -8,6 +8,7 @@
 
 :bell: **News:**
 
+* [2026-01-26] We are happy to announce [DGFusion](https://github.com/timbroed/DGFusion), which adds local depth guidance to CAFuser. DGFusion was accepted to the **IEEE Robotics and Automation Letters**.
 * [2025-04-11] Code and models are released.
 * [2025-01-11] We are happy to announce that CAFuser was accepted in the **IEEE Robotics and Automation Letters**.
 
